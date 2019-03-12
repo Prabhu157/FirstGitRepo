@@ -1,0 +1,4 @@
+sample text below:
+
+Triggers
+If you want Bamboo to start this plan automatically, you will need to set triggers to specify how and when the build will be triggered. If you want to start it manually at any time, use the "run" menu or trigger a release from Jira.

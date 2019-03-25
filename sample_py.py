@@ -8,7 +8,6 @@ def main():
      print "End"
      logger.info('just an info')
      assert True
-		smkegvs
 
 
 if __name__== "__main__":

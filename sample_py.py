@@ -8,7 +8,7 @@ def main():
      print "End"
      logger.info('just an info')
      assert True
-
+Wegwegwef
 
 if __name__== "__main__":
   main()

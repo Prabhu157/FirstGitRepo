@@ -7,7 +7,7 @@ def main():
      print "-Printing the line: : : sample python file"
      print "End"
      logger.info('just an info')
-     assert False
+     assert True
 
 if __name__== "__main__":
   main()
